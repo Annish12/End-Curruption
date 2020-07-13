@@ -1,0 +1,38 @@
+STORY- I want to make a game on preventing the currption in 
+India and in world which can be stopped by young 
+generation in politics gradually change these rules and 
+regulations..
+
+1 or 2 currupt politicians , gang of demand for justice 
+people
+main player- politicianS
+secendary player- gang of people for justice
+
+PC- politicians
+NPC- gang of people for justice
+
+Goal- the young generations in politics should 
+overcome this rules and regulations and change it 
+gradually.
+
+Rules- 1) Politicians should touch a person in a gang 
+and get more currpted.
+           2) As Games moves the gang should become 
+strong and politician cannot destroy the any person and 
+end up with destroying a politician.
+             3) Then game becomes sucessful.
+
+Feedback- There should be written feedback for harder
+levels to be cleared.
+
+Chance vs Skill- It should be taken as a chance not a 
+skill.
+
+Adaptivity- Adaptivity should be low.
+
+Balance- The games become difficult as a currupt
+ politician cannot kill more people after few minutes 
+and end up destroying himself. Hence in this way game 
+finishes.
+
+
